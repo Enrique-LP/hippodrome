@@ -1,0 +1,31 @@
+2024-12-20 11:56:49:394 INFO Main: Start of the race. Number of participants: 7
+2024-12-20 12:00:41:229 INFO [Main.main(Main.java:23):] Start of the race. Number of participants: 7
+2024-12-20 12:04:36:581 INFO [Main.main(Main.java:23):] Start of the race. Number of participants: 7
+2024-12-20 12:04:57:064 INFO [Main.main(Main.java:33):] End of the rece. Winner: Pegasus
+2024-12-20 12:09:49:225 ERROR [Hippodrome.<init>(Hippodrome.java:19):] Horses list is null
+2024-12-20 12:12:07:457 DEBUG [Hippodrome.<init>(Hippodrome.java:27):] Created Hippodrome with 7 horses
+2024-12-20 12:12:07:462 INFO [Main.main(Main.java:23):] Start of the race. Number of participants: 7
+2024-12-20 12:12:27:882 INFO [Main.main(Main.java:33):] End of the rece. Winner: Shelby
+2024-12-20 12:15:16:366 DEBUG [Hippodrome.<init>(Hippodrome.java:27):] Created Hippodrome with 7 horses
+2024-12-20 12:15:16:370 INFO [Main.main(Main.java:23):] Start of the race. Number of participants: 7
+2024-12-20 12:15:36:747 INFO [Main.main(Main.java:33):] End of the rece. Winner: Pegasus
+2024-12-20 12:17:51:413 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named[Houdini]
+2024-12-20 12:17:51:417 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named[Comanche]
+2024-12-20 12:17:51:417 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named[Ranger]
+2024-12-20 12:17:51:418 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named[Elvis]
+2024-12-20 12:17:51:419 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named[Yoda]
+2024-12-20 12:17:51:419 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named[Pegasus]
+2024-12-20 12:17:51:420 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named[Shelby]
+2024-12-20 12:17:51:421 DEBUG [Hippodrome.<init>(Hippodrome.java:27):] Created Hippodrome with 7 horses
+2024-12-20 12:17:51:422 INFO [Main.main(Main.java:23):] Start of the race. Number of participants: 7
+2024-12-20 12:18:11:801 INFO [Main.main(Main.java:33):] End of the rece. Winner: Yoda
+2024-12-20 12:18:37:785 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named [Houdini] with speed[2.4]
+2024-12-20 12:18:37:790 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named [Comanche] with speed[2.5]
+2024-12-20 12:18:37:791 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named [Ranger] with speed[2.6]
+2024-12-20 12:18:37:792 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named [Elvis] with speed[2.7]
+2024-12-20 12:18:37:792 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named [Yoda] with speed[2.8]
+2024-12-20 12:18:37:793 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named [Pegasus] with speed[2.9]
+2024-12-20 12:18:37:793 DEBUG [Horse.<init>(Horse.java:33):] Created a Horse named [Shelby] with speed[3.0]
+2024-12-20 12:18:37:796 DEBUG [Hippodrome.<init>(Hippodrome.java:27):] Created Hippodrome with 7 horses
+2024-12-20 12:18:37:796 INFO [Main.main(Main.java:23):] Start of the race. Number of participants: 7
+2024-12-20 12:18:58:194 INFO [Main.main(Main.java:33):] End of the rece. Winner: Pegasus
